@@ -1,1 +1,2 @@
 # PULL_REQUEST_TEST_EXAMPLE
+PULL REQUSET 테스트 전용 초기 파일입니다.
